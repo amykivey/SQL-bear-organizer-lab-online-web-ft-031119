@@ -3,5 +3,6 @@ create table bears (
   name text,
   age integer,
   gender char(1),
+  color text,
   
 )
